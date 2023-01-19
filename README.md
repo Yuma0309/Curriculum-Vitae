@@ -34,7 +34,13 @@
 
 ## スキル
 ### 趣味
-- PHP
-- Laravel
-- MySQL / MariaDB
-- HTML / CSS / JavaScript
+- PHP（独学）
+- Laravel（独学）
+- MySQL（独学）
+- MariaDB（独学）
+- HTML（独学）
+- CSS（独学）
+- JavaScript（独学）
+- GitHub（独学）
+- Java（大学）
+- C言語（大学）
