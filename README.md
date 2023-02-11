@@ -1,5 +1,5 @@
 # 履歴書 / 職務経歴書
-2023/01/02 更新
+2023/02/11 更新
 <br>
 
 ## 基本情報
@@ -34,13 +34,8 @@
 
 ## スキル
 ### 趣味
-- PHP（独学）
-- Laravel（独学）
-- MySQL（独学）
-- MariaDB（独学）
-- HTML（独学）
-- CSS（独学）
-- JavaScript（独学）
-- GitHub（独学）
-- Java（大学）
-- C言語（大学）
+- 言語：HTML（独学）、CSS（独学）、JavaScript（独学）、PHP（独学）、Python（独学）、Java（大学）、C言語（大学）
+- フレームワーク：Laravel（独学）、Django（独学）
+- データベース：MySQL（独学）、MariaDB（独学）
+- インフラ：AWS（独学）
+- バージョン管理システム：GitHub（独学）
